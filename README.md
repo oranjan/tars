@@ -1,4 +1,4 @@
-# Chrome Extension - TARS - cool ui when you open that new tab
+#  TARS Chrome Extension - cool page ui when you open that new tab
 
 ## Overview
 
@@ -59,4 +59,3 @@ The extension is still in development, things planned for the future:
 
 ## Acknowledgments
 I would like to express my thanks to the developers and communities of the APIs,icons used in this project for making this new tab dashboard (TARS) possible.
-# tars

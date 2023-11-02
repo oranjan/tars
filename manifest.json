@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Personal Dashboard",
+    "name": "TARS",
     "version": "1.0.0",
-    "description": "Just for practicing async JS",
+    "description": "beautifulmotivational  wallpaper and UI wehnever you open a new tab also  mini project to practice that hell of async-hronous JavaScript",
     "action": {
         "default_icon": "icon.png"
     },

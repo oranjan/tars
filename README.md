@@ -1,12 +1,5 @@
 #  TARS Chrome Extension - cool page ui when you open that new tab
 
-
-## instlation
-- install the extension by downloading the .crx file 
-- ignore the warnings by Chrome(any chrominum browser)
-- this is a simple extension not at all harmful
-- might publish later since Google is asking for 5$ 
-
 ## Overview
 This Chrome extension serves as a custom new tab dashboard UI,
 offerings include
@@ -16,7 +9,7 @@ and provides the latest cryptocurrency data.
 It is currently under development.
 
 ## Screenshot
-    ![screenshot of Tars](images/ss.png)
+   ![Screenshot](images/ss.png "a screenshot of how extesion looks while using")
 
 ## What I learnt
 

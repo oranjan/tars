@@ -1,7 +1,7 @@
 fetch("https://apis.scrimba.com/unsplash/photos/random?orientation=landscape&query=motivation")
     .then(res => res.json())
     .then(data => {
-        document.body.style.backgroundImage = `url(${data.urls.regular})`
+        document.body.style.backgroundImage = `url(${data.urls.raw})`
         //raw full or regualr hight to low
         document.getElementById("author").textContent = `Photo Credits: ${data.user.name}`
     })
@@ -38,7 +38,8 @@ function getCurrentTime() {
     document.getElementById("time").textContent = date.toLocaleTimeString("en-us", { timeStyle: "short" })
 }
 
-setInterval(getCurrentTime, 1000)
+setInterval(getCurrentTime, 1000 * 10) // dom updates in one minute 
+getCurrentTime()// inital time
 
 navigator.geolocation.getCurrentPosition(position => {
     fetch(`https://apis.scrimba.com/openweathermap/data/2.5/weather?lat=${position.coords.latitude}&lon=${position.coords.longitude}&units=metric`)

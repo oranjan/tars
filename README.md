@@ -9,6 +9,9 @@ displays the current weather and time,
 and provides the latest cryptocurrency data.
 It is currently under development.
 
+## Screenshot
+    ![screenshot of Tars](images/ss.png)
+
 ## What I learnt
 
 This project was built using the following technologies and concepts :

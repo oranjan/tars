@@ -1,7 +1,10 @@
 #  TARS Chrome Extension - cool page ui when you open that new tab
 
-## Overview
 
+## instlation
+    You can install the extension by downloading the .crx file ignore the warnings by Chrome(any chrominum browser)
+    this is just a simple extension not at all harmful
+## Overview
 This Chrome extension serves as a custom new tab dashboard UI,
 offerings include
 wallpaper (fetching images from Unsplash) ,

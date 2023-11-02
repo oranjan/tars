@@ -1,7 +1,7 @@
 fetch("https://apis.scrimba.com/unsplash/photos/random?orientation=landscape&query=motivation")
     .then(res => res.json())
     .then(data => {
-        document.body.style.backgroundImage = `url(${data.urls.raw})`
+        document.body.style.backgroundImage = `url(${data.urls.regular})`
         //raw full or regualr hight to low
         document.getElementById("author").textContent = `Photo Credits: ${data.user.name}`
     })

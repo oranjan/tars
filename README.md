@@ -2,8 +2,11 @@
 
 
 ## instlation
-    You can install the extension by downloading the .crx file ignore the warnings by Chrome(any chrominum browser)
-    this is just a simple extension not at all harmful
+- install the extension by downloading the .crx file 
+- ignore the warnings by Chrome(any chrominum browser)
+- this is a simple extension not at all harmful
+- might publish later since Google is asking for 5$ 
+
 ## Overview
 This Chrome extension serves as a custom new tab dashboard UI,
 offerings include
